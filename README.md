@@ -23,7 +23,7 @@ Traditional document readers are often bloated, suffer from sluggish startup tim
   * English
   * French (Français)
   * Russian (Русский)
-* **📂 Integrated File Explorer:** Browse your device storage directly within the app to locate and open supported documents seamlessly.
+* **📂 Integrated File  Explorer:** Browse your device storage directly within the app to locate and open supported documents seamlessly.
 * **📑 Multi-Format Support:** Fast parsing and viewing for **PDF, Word (.docx), Excel (.xlsx), PowerPoint (.pptx), Text (.txt), and Images**.
 * **⭐ Bookmarks & Search:** Easily bookmark important documents and filter them instantly using the powerful built-in search engine.
 * **🌓 Dark & Light Themes:** Built-in seamless theme switching tailored for comfortable reading day or night.
